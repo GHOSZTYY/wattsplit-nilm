@@ -1,0 +1,10 @@
+precision,recall,f1,appliance,threshold,modeled
+0.92,0.92,0.92,air conditioner,0.45,True
+0.86,0.98,0.91,fridge,0.05,True
+0.29,1.0,0.44,iron,0.2,True
+0.0,0.0,0.0,kitchen outlets,0.05,True
+0.54,0.84,0.66,laptop computer,0.35,True
+0.32,0.69,0.44,television,0.1,True
+0.7,0.31,0.43,washing machine,0.2,True
+0.0,0.0,0.0,water filter,0.05,True
+0.0,0.0,0.0,water motor,,False
