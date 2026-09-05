@@ -1,0 +1,7 @@
+pandas<3
+numpy
+scipy
+scikit-learn
+matplotlib
+tables
+h5py
